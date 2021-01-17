@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "target": "es6",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist",
+      "jsx": "react",
+      "types": [],
+      "skipLibCheck": true,
+      "checkJs": false,
+      "experimentalDecorators": true
+    },
+    // "lib": ["es2015"],
+    "ignoreRules": {
+        "TS2307": true
+    }
+  }
